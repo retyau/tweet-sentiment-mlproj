@@ -1,5 +1,10 @@
 # Project: Sentiment Classification of Tweets
 
+Because some of the model files are quite large, you can obtain all the executable files from the following link.
+
+https://drive.google.com/file/d/1Dnymf-N61KrMNLQi5rIhSE96Ungg8s7N/view?usp=drive_link
+
+
 ## 1. Introduction
 
 This project aims to solve a nuanced sentiment classification task: predicting whether a tweet originally contained a positive `:)` or negative `:(` smiley based on its textual content.
