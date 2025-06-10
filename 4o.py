@@ -9,8 +9,7 @@ from tqdm import tqdm
 # 请在这里填入你的OpenAI API密钥
 # 为了安全，建议设置环境变量 OPENAI_API_KEY，SDK会自动读取
 # 如果设置了环境变量，可以将下一行代码改为 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-OPENAI_API_KEY = "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"
-
+OPENAI_API_KEY = 
 # 数据集文件夹路径
 DATA_FOLDER = 'twitter-datasets'
 
